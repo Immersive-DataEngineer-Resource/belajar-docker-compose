@@ -1,4 +1,4 @@
-1. # Docker compose
+# 1. Docker compose
 
 This subcommand is used to create and start containers based on the services defined in the Compose file.
 
@@ -7,7 +7,7 @@ docker compose up -d
 docker compose down
 ```
 
-2. # Result
+# 2. Result
 
 ![Alt Text](./img-1.png)
 ![Alt Text](./img-2.png)
